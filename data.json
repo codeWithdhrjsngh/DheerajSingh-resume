@@ -1,20 +1,20 @@
 {
     "social": [
         {
-            "url": "https://github.com/techwhisper-in",
+            "url": "https://github.com/codeWithdhrjsngh",
             "icon": "fab fa-github"
         },
         {
-            "url": "https://www.linkedin.com/in/ankit-kumar-a45520181/",
+            "url": "https://www.linkedin.com/in/dheeraj-singh-0682621b6",
             "icon": "fab fa-linkedin"
         }
     ],
     "personal": {
-        "name": "Ankit Kumar",
-        "title": "Devops Engineer",
-        "email": "mechankit99@gmail.com",
-        "phone": "+91 9631127486",
-        "location": "Gurgaon, India",
+        "name": "Dheeraj Kumar",
+        "title": "DevOps Engineer",
+        "email": "sdheerajsingh8121998@gmail.com",
+        "phone": "(+91) 9507137545",
+        "location": "Pune, India",
         "profileImage": "profile.jpg",
         "position": "DevOps Engineer",
         "about": "As a <strong>Cloud Architect and DevOps Engineer</strong>, I design and manage secure, scalable cloud infrastructures for global clients, leveraging AWS services, Infrastructure as Code (IaC), and DevOps principles to drive digital transformation. With nearly <strong>3 years of experience</strong>, I specialize in bridging cloud architecture, automation, and agile practices to solve complex challenges while optimizing costs and performance.<br><br>My expertise lies in architecting AWS environments using services like <strong>Lambda, ECS, EKS, API Gateway, and VPCs</strong>, paired with IaC tools such as Terraform and CloudFormation. I automate resource provisioning, Glue Job workflows, and serverless Lambda functions using <strong>Python and Boto3</strong>, reducing manual effort by 40% while enforcing compliance with encryption, logging, and IAM policies.<br><br>I’ve led critical modernization initiatives, including migrating legacy CI/CD pipelines from TeamCity to Harness, which slashed pipeline configuration complexity by 60%, and transitioning monitoring systems from DataDog to Dynatrace, improving incident detection speed by 40% and cutting cloud costs by 25%. By integrating GitHub Cloud with Harness and AWS, I accelerated CI/CD workflows by 50%, enabling teams to deploy 50+ times daily with automated rollbacks and SOC2-compliant security controls.<br><br>A strong advocate for cost efficiency, I’ve reduced client AWS spending by 20–35% through rightsizing EC2 instances, optimizing Lambda cold starts, and adopting Spot Instances. My security-first approach includes designing data/control planes with CloudTrail, VPC flow logs, and automated security group updates, minimizing attack surfaces by 60%.<br><br>I thrive on collaboration, having trained 50+ engineers on IaC and observability best practices, achieving 95% adoption of modern DevOps workflows. Proficient in <strong>Python, AWS, Terraform, Docker, and Kubernetes</strong>, I stay passionate about exploring emerging tools like AI-driven observability and GitOps to solve tomorrow’s cloud challenges."
@@ -23,7 +23,6 @@
         "CI/CD Pipeline",
         "Lambda/Glue automations",
         "Python",
-        "Harness",
         "AWS Cloud Services",
         "ECS",
         "EKS",
@@ -33,22 +32,18 @@
         "CloudFormation",
         "Terraform",
         "Docker & Kubernetes",
-        "Migrations",
-        "Teamcity",
         "Azure DevOps",
         "Github",
         "Linux",
         "Bash",
-        "Boto3",
-        "SignalFX",
         "Dynatrace",
         "Confluence"
     ],
     "experience": [
         {
             "position": "Devops Engineer",
-            "company": "Unites Airlines",
-            "duration": "2024 - Present",
+            "company": "Infosys Limited",
+            "duration": "2022 - Present",
             "responsibilities": [
                 "Engineered Harness CI/CD pipelines to automate build, test, and deployment processes, reducing deployment errors by 40% and enabling 50+ daily deployments across microservices.",
                 "Integrated JFrog Artifactory with Harness to streamline artifact storage and dependency management, cutting build times by 25%.",
@@ -77,30 +72,6 @@
                 "Reduced annual tooling/licensing costs by $150K+ by consolidating TeamCity, DataDog, and on-prem GitHub into Harness, Dynatrace, and GitHub Cloud."
             ]
         },
-        {
-            "position": "AWS Infrastructure Engineer",
-            "company": "Accenture India Pvt. Ltd.",
-            "duration": "2021 - 2024",
-            "responsibilities": [
-                "<strong>AMI Management</strong>: Handle AMI backups, secure transfers of AMIs between AWS accounts, restoration of AMIs, instance type changes, instance migrations, EBS volume type upgrades, Building gold images/AMIs and employ auto-scaling.",
-                "<strong>VPC Configuration</strong>: Built Amazon Virtual Private Cloud (VPC) resources such as subnets, network access control lists, and security groups.",
-                "<strong>IAM Management</strong>: Built IAM users and groups.",
-                "<strong>Data Analysis</strong>: Developed Python code to analyze data from monthly Snow tickets, creating reports and reducing project time by 3 days per analysis.",
-                "<strong>Infrastructure as a Code (IAC)</strong>: Compose and demonstrate AWS CloudFormation Templates/Terraform for AWS infrastructure provisioning.",
-                "<strong>Elasticsearch Management</strong>: Architected a solution to take Elasticsearch index snapshots and restore indices using Lambda functions, ensuring proper data backup and restoration.",
-                "<strong>Cost Optimization</strong>: Developed a Lambda function that automatically deregisters older AMIs and deletes snapshots based on retention tags and age, reducing operational costs by 15% annually. Assisted in preparing cost analysis based on encouraged usage. Maintained AWS Cloud Infrastructure in Efficient Configuration from both technical and budgetary perspectives.",
-                "<strong>Resource Tagging</strong>: Created a Glue job to fetch details of tags for all AWS resources, aiding in the identification of untagged resources, Tagging to allocate costs and optimize resource planning.",
-                "<strong>Infrastructure Management</strong>: Implemented a serverless infrastructure to identify and delete unattached EBS volumes, reducing operational costs by 10% annually. Maintained availability of critical AWS Cloud infrastructure to include configuration changes to AWS Cloud Services, made sure to compliance requirements, development/testing/production environments as approved and advised.",
-                "<strong>Certificate Management</strong>: Developed and executed code for automatic alert system in AWS, ensuring timely renewal of API Gateway certificates; reduced risk of service disruption and potential revenue loss due to expired certificates by 100%.",
-                "<strong>Instance Scheduling</strong>: Developed a Lambda function in Python that automatically starts or stops EC2 instances based on a schedule, decreasing operating expenditure by 15% yearly by ensuring instances run only when needed.",
-                "<strong>API Monitoring</strong>: Designed a solution to receive REST API details and AWS Health Event notifications via email.",
-                "<strong>Database Management</strong>: Created a Python script to fetch record details of each DynamoDB table in AWS.",
-                "<strong>Log Management</strong>: Automated AWS CloudWatch Log Groups to change their retention policy based on applied tags.",
-                "<strong>Windows Troubleshooting</strong>: Perform daily troubleshooting on Windows hosts.",
-                "<strong>AWS Administration</strong>: Daily activities include monitoring, troubleshooting connections, maintenance, patching, analyzing CloudTrail events, and monitoring IaaS and PaaS services using AWS’s core service CloudWatch and the third-party tool Splunk SignalFx.",
-                "<strong>Documentation</strong>: Deployed, tested and documented development, pre-production, and production environments."
-            ]
-        }
     ],
     "certification": [
         {
@@ -132,14 +103,15 @@
         },
         {
             "degree": "Senior Secondary Schooling",
-            "institution": "BSEB, Patna",
-            "duration": "2015 - 2017"
+            "institution": "Jawahar Navodaya Vidyalaya, Darbhanga",
+            "duration": "2014 - 2016"
         },
         {
             "degree": "Secondary Schooling",
-            "institution": "DAV Public School, Maharjganj (Siwan)",
-            "duration": "2014 - 2015"
+            "institution": "Jawahar Navodaya Vidyalaya, Darbhanga",
+            "duration": "2013 - 2014"
         }
     ]
 
 }
+
