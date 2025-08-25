@@ -71,7 +71,7 @@
                 "Architected GitHub Cloud webhook integrations with AWS Lambda and API Gateway to automate issue tracking and Slack notifications for critical pipeline failures.",
                 "Reduced annual tooling/licensing costs by $150K+ by consolidating TeamCity, DataDog, and on-prem GitHub into Harness, Dynatrace, and GitHub Cloud."
             ]
-        },
+        }
     ],
     "certification": [
         {
@@ -114,4 +114,5 @@
     ]
 
 }
+
 
